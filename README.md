@@ -12,3 +12,11 @@
  git clone https://github.com/Seeed-Studio/Grove_Starter_Kit_for_BBG.git
  
  Then, you can start using the software library.
+
+ 
+ 
+[1]:http://www.seeedstudio.com/wiki/Grove_Starter_Kit_for_BeagleBone_Green
+
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_Starter_Kit_for_BBG)](https://github.com/igrigorik/ga-beacon)
